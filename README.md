@@ -16,5 +16,5 @@ This project is a simple calculator program written in C. It performs the follow
 - Handles division by zero
 - Beginner-friendly project to understand C programming
 
- ##Author
+ *##Author*
  Zunairah Maasfa Khan 
